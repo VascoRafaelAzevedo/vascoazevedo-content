@@ -1,0 +1,4 @@
+{
+  "_note": "Hand-editable RAG entries. Same schema as generated ones: id, type, title, url, body. Merged AFTER everything gen.py builds from content/ — if an id collides, THIS file wins (use it to override a generated answer). vasco.json itself is regenerated on every build, so edit HERE, never there.",
+  "entries": []
+}

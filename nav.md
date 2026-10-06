@@ -1,0 +1,4 @@
+- [Writing](writing.html)
+- [Projects](projects.html)
+- [About](about.html)
+- [Random thoughts](randomthoughts.html)
